@@ -313,6 +313,7 @@
 0.0.0.0 casumo.com
 0.0.0.0 cbmsport.com
 0.0.0.0 cc898.com
+0.0.0.0 celsiuscasino.com
 0.0.0.0 celebbingo.com
 0.0.0.0 centrebet.com
 0.0.0.0 cgaming.olg.ca
